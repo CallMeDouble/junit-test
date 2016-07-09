@@ -16,4 +16,7 @@ public class Calcuate {
 	public int chu(int a,int b){
 		return a/b;
 	}
+        public int chu(int a,int b){
+		return a/b;
+	}
 }
